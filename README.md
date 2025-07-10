@@ -1,0 +1,1 @@
+This repository contains all of the code and data necessary to recreate the figures from "Physics-based vs AI Weather Prediction Models: A Comparative Performance Assessment of Atmospheric River Prediction".
